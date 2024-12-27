@@ -1,0 +1,11 @@
+main: com.albert.Main
+name: OlympicCore
+version: 1.0.0
+
+commands:
+  cmenu:
+    description: menu custom para servidores
+    aliases:
+     - cm
+     - cmenu
+     - cmn
